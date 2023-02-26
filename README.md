@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/TasumLuke/AlvinAndTheChipmunks/blob/main/Banner.gif?raw=true)
 <h1 align="center">Hey 👋, I'm Luke Rimmo Lego</h1>
-<h3 align="center">A passionate Alvin and the Chipmunks Lover, and an aspiring Biomedical Engineer.</h3>
+<h3 align="center">A passionate Alvin and the Chipmunks Fan, and an aspiring Biomedical Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/hd/alvin-and-the-chipmunks-in-nature-e7203f050ye6v35z.jpg">
 
 
