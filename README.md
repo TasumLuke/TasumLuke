@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [building an Alvin and The Chipmunks Fan Website](https://github.com/TasumLuke/AlvinAndTheChipmunks)
 
-- 📝 I regularly write articles on [International Affairs, Politics, and Botany](International Affairs, Politics, and Botany)
+- 📝 I regularly write articles on [International Affairs, Politics, and Botany]
 
 - 💬 Ask me about **Ethical Hacking and Biology (Leaves or Human Anatomy)**
 
