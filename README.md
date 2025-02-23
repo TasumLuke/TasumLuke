@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile!
 
-## Hey there, I'm Luke Rimmo Loyi Lego!
-
-### A  Biomedical Engineering Major
+### Hey, I am a  Biomedical Engineering Major at the Stevens Institute of Technology
 
 ![Coding](https://user-images.githubusercontent.com/yourusername/yourrepository/master/assets/coding.gif)
 
