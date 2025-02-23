@@ -3,7 +3,6 @@
 ### Hey, I am a  Biomedical Engineering Major at the Stevens Institute of Technology
 
 ![Coding](https://user-images.githubusercontent.com/yourusername/yourrepository/master/assets/coding.gif)
-
 - 🔭 I am the Cofounder of the Tani Language Foundation, the Northeastern Centre for High School Research and Ngok Siang
 - 🌱 I’m currently learning Java, SolidWorks, DICOM, Node.js, and Express.js.
 - 📝 I regularly write articles on international affairs, politics, and botany.
@@ -12,14 +11,11 @@
 - ⚡ Fun fact: I love collecting plant leaves, and I have my own personal herbarium 
 
 ![Coding](https://user-images.githubusercontent.com/yourusername/yourrepository/master/assets/coding.gif)
-
 ### Connect with me:
 
 - [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/ucqr_k5dn5hsc2okdjoqanmq)
 - Discord: Luke Rimmo#1987
-
 ### Languages and Tools:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-00599C?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
