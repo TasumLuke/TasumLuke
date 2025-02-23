@@ -14,7 +14,7 @@
 ### Connect with me:
 
 - [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/ucqr_k5dn5hsc2okdjoqanmq)
-- Discord: Luke Rimmo#1987
+- Discord: shuiaseng
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-00599C?style=for-the-badge&logo=solidworks&logoColor=white)
