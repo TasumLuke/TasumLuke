@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Java, SolidWorks, DICOM, Node.js, and Express.js.
 - 📝 I regularly write articles on international affairs, politics, and botany.
 - 💬 Ask me about ethical hacking and biology (especially leaves or human anatomy).
-- 📫 How to reach me: tasumrocky@gmail.com
+- 📫 How to reach me: send me a friend request on Discord
 - ⚡ Fun fact: I love collecting plant leaves, and I have my own personal herbarium 
 
 ![Coding](https://user-images.githubusercontent.com/yourusername/yourrepository/master/assets/coding.gif)
