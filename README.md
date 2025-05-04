@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Luke Rimmo Minkeng Lego
+# Heyy!
 
 ### 🎓 Biomedical Engineering Student | 🌿 Herbarium Enthusiast | 
 
