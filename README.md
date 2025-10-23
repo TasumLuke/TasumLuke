@@ -21,13 +21,6 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, p
 
 ---
 
-## 📬 Connect With Me
-
-- 📺 [YouTube Channel](https://www.youtube.com/channel/ucqr_k5dn5hsc2okdjoqanmq)
-- 💬 Discord: `shuiaseng`
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
