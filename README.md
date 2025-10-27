@@ -1,5 +1,8 @@
 # Heyy!
-## 🚀 About Me
+
+How is your day treating you?
+
+## About Me
 
 I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, passionate about the intersection of **technology**, **biology**, and **indigenous advocacy**.
 
