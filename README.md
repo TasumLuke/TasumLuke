@@ -1,11 +1,4 @@
 # Heyy!
-
-### 🎓 Biomedical Engineering Student | 🌿 Herbarium Enthusiast | 
-
-![Hero](https://user-images.githubusercontent.com/yourusername/yourrepository/master/assets/coding.gif)
-
----
-
 ## 🚀 About Me
 
 I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, passionate about the intersection of **technology**, **biology**, and **indigenous advocacy**.
