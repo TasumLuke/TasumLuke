@@ -9,9 +9,9 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, p
 - 🧬 Currently diving into **Java**, **SolidWorks**, **DICOM**, **Node.js**, and **Express.js**.
 - 📝 Regular writer on topics including **international affairs**, **Northeast India**, and **botany**.
 - 🌱 Cofounder of:
-  - **Tani Language Foundation**
-  - **Northeastern Centre for High School Research**
-  - **Ngok Siang**
+  - **[Tani Language Foundation](https://tanilanguagefoundation.org/)**
+  - **[Northeastern Centre for High School Research](https://nechr-research.us/)**
+  - **[Ngok Siang](https://www.ngoksiang.org/)**
 - 🌿 Proud owner of a personal **herbarium** with 250+ species collected and catalogued.
 - 💬 Ask me about **ethical hacking**, **human anatomy**, or **leaves**—yes, really.
 
