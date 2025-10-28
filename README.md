@@ -12,7 +12,7 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, p
   - **[Tani Language Foundation](https://tanilanguagefoundation.org/)**
   - **[Northeastern Centre for High School Research](https://nechr-research.us/)**
   - **[Ngok Siang](https://www.ngoksiang.org/)**
-- 🌿 Proud owner of a personal **herbarium** with 250+ species collected and catalogued.
+- 🌿 Proud owner of a personal **herbarium** with 450+ species collected and catalogued.
 - 💬 Ask me about **ethical hacking**, **human anatomy**, or **leaves**—yes, really.
 
 ---
