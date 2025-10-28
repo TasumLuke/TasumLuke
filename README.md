@@ -4,7 +4,7 @@ How is your day treating you?
 
 ## About Me
 
-I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, passionate about the intersection of **technology**, **biology**, and **indigenous advocacy**.
+I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, passionate about the intersection of **technology**, **biology**, and **hacking**.
 
 - 🧬 Currently diving into **Java**, **SolidWorks**, **DICOM**, **Node.js**, and **Express.js**.
 - 📝 Regular writer on topics including **international affairs**, **Northeast India**, and **botany**.
