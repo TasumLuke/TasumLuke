@@ -58,7 +58,7 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, p
 
 ## ⚡ Fun Fact
 
-> I find calm in chaos—whether it's debugging a program at 2 a.m. or identifying a rare leaf on a hike.
+> I find calm in chaos; whether it's debugging a program at 2 a.m. or identifying a rare leaf on a hike.
 
 ---
 
