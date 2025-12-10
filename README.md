@@ -6,14 +6,15 @@ How is your day treating you?
 
 I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, with concentration in **Neural engineering** passionate about the intersection of **technology**, **biology**, and **hacking**.
 
-- 🧬 Currently diving into **Java**, **SolidWorks**, **DICOM**, **Node.js**, and **Express.js**.
-- 📝 Regular writer on topics including **international affairs**, **Northeast India**, and **botany**.
-- 🌱 Cofounder of:
+- Currently diving into **Java**, **SolidWorks**, **DICOM**, **Node.js**, and **Express.js**.
+- Regular writer on topics including **international affairs**, **Northeast India**, and **botany**.
+- Cofounder of:
   - **[Tani Language Foundation](https://tanilanguagefoundation.org/)**
   - **[Northeastern Centre for High School Research](https://nechr-research.us/)**
   - **[Ngok Siang](https://www.ngoksiang.org/)**
-- 🌿 Proud owner of a personal **herbarium** with 450+ species collected and catalogued.
-- 💬 Ask me about **ethical hacking**, **human anatomy**, or **leaves**- yes, really.
+  - **[LabNinja](https://www.labninja.ai/)**
+- Proud owner of a personal **herbarium** with 630+ species collected and catalogued.
+- Ask me about **ethical hacking**, **human anatomy**, or **leaves**- yes, really.
 
 ---
 
@@ -45,18 +46,7 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, w
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TasumLuke&show_icons=true&theme=radical" alt="Luke's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasumLuke&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## ⚡ Fun Fact
+## Fun Fact
 
 > I find calm in chaos; whether it's debugging a program at 2 a.m. or identifying a rare leaf on a hike.
 
