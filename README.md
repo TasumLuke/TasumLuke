@@ -1,12 +1,14 @@
 # Heyy!
 
-How is your day treating you?
+I'm a **Biomedical Engineer**, **Data Scientist** and a **Trained EMT**. I like building things that sit at the intersection of biology, technology, and the occasional 2 a.m. debugging session.
 
-## About Me
-
-I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, with concentration in **Neural engineering** passionate about the intersection of **technology**, **biology**, and **hacking**.
-
-- Currently diving into **Java**, **SolidWorks**, **DICOM**, **Node.js**, and **Express.js**.
+---
+ 
+**What I'm working with**
+ 
+`Java` `Python` `C++` `JavaScript` `Node.js` `Express.js` `SolidWorks` `DICOM` `Arduino` `Unity` `MySQL` `Blender` `MatLab`
+ 
+---
 - Cofounder of:
   - **[Tani Language Foundation](https://tanilanguagefoundation.org/)**
   - **[Ngok Siang](https://www.ngoksiang.org/)**
@@ -16,7 +18,7 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, w
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages & Frameworks
 
@@ -43,11 +45,6 @@ I'm a **Biomedical Engineering Major** at **Stevens Institute of Technology**, w
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
+ ⭐ *Feel free to reach out or contribute to anything here.*
 
-## Fun Fact
-
-> I find calm in chaos; whether it's debugging a program at 2 a.m. or identifying a rare leaf on a hike.
-
----
-
-_Thanks for stopping by! ⭐ Feel free to contribute or say hello 👋_
+_Thanks for stopping by!👋_
